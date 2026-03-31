@@ -1,0 +1,9 @@
+<x-layout>
+    <x-slot:title>
+        {{$title}}
+    </x-slot>
+    {{$firstname}}</br>
+    {{$name}}</br>
+    {{$surname}}</br>
+    {{$age}}</br>
+</x-layout>
