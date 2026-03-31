@@ -115,3 +115,4 @@ Route::get('/', function () {
 // Route::get('/blade/ulArr_3',[Blade::class,'ulArr_3']);
 // Route::get('/blade/arrKey',[Blade::class,'arrKey']);
 // Route::get('/blade/arrData',[Blade::class,'arrData']);
+Route::get('/collection/testCollection',[Blade::class,'testCollection']);
